@@ -12,7 +12,7 @@ public class App {
 
         System.out.println("Choisir votre langue pour dire bonjour ");
         System.out.println("1 : Anglais");
-        System.out.println("2 : Breton!");
+        System.out.println("2 : Breton!"); // langue breton
 
         choix = scan.nextInt();
 

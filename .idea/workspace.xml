@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0564cbab-cc74-4a1f-aac3-effcea10869b" name="Changes" comment="modification app.java ajout d'un ! au print de breton" />
+    <list default="true" id="0564cbab-cc74-4a1f-aac3-effcea10869b" name="Changes" comment="modification app.java ajout d'un ! au print de breton">
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679408698029</updated>
-      <workItem from="1679408699377" duration="1999000" />
+      <workItem from="1679408699377" duration="2362000" />
     </task>
     <task id="LOCAL-00001" summary="modification app.java ajout d'un ! au print de breton">
       <created>1679411289419</created>
@@ -52,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679411405818</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modification app.java ajout d'un ! au print de breton">
+      <created>1679411577493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679411577493</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
